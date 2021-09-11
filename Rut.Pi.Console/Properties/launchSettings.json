@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "rut_pi_console": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
